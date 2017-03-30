@@ -1,3 +1,6 @@
+//This code is for the project listed at
+//http://www.iliketomakestuff.com/make-large-bluetooth-scoreboard/
+
 #include <CurieBLE.h>
 #include <Adafruit_NeoPixel.h>
 #ifdef __AVR__
